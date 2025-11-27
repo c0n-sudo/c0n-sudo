@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm c0n-sudo 👋
 
-<!--
-**c0n-sudo/c0n-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student currently training in application development (Fachinformatik Anwendungsentwicklung).  
+Right now I'm mainly learning and coding in Python and building my foundations step by step.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Student in application development (Fachinformatik Anwendungsentwicklung)  
+- Currently programming only in Python  
+- Interested in machine learning, large language models (LLMs), and data science  
+- Still at the beginning of my journey and eager to learn more every day
+
+## What I'm working on
+
+- Learning Python fundamentals and best practices  
+- Exploring ML and basic data science concepts  
+- Experimenting with small projects to improve my skills
+
+## Goals
+
+- Build solid foundations in Python and software development  
+- Start practical projects in ML/LLMs and data science  
+- Share my learning progress and projects here on GitHub
