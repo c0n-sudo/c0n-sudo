@@ -99,7 +99,7 @@ and serves them via a self-built REST API. Clean modular structure, pytest cover
 
 ```bash
 # Open to Junior roles – Python Developer / Data Engineer
-# Currently: Umschulung Fachinformatiker AE (graduating 2025)
+# Currently: Umschulung Fachinformatiker AE (graduating 2027)
 
 echo "Let's connect 👋"
 ```
