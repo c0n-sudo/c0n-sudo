@@ -25,7 +25,7 @@ profile = {
     "focus":      ["Python", "Data Engineering", "Software Engineering"],
     "status":     "Building – learning in public 🚧",
     "goal":       "Junior Python Developer / Data Engineer 2025",
-    "outside":    ["Weightlifting 🏋️", "Cybersecurity (hobby)"],
+    "outside":    ["Weightlifting 🏋️", "Cybersecurity (slight interest)"],
 }
 ```
 
