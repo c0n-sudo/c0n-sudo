@@ -10,7 +10,7 @@
  ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝      ╚══════╝ ╚═════╝ ╚═════╝  ╚═════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=4F9EFF&center=true&vCenter=true&width=600&lines=Python+%7C+Data+Engineering+%7C+Software+Engineering;Building+pipelines+%26+clean+code;Fachinformatiker+AE+in+training;Security+enthusiast+%40+night)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=4F9EFF&center=true&vCenter=true&width=600&lines=Python+%7C+Data+Engineering+%7C+Software+Engineering;Building+pipelines+%26+clean+code;Fachinformatiker+AE+in+training;Clean+code+%7C+heavy+weights)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,9 +23,9 @@ profile = {
     "alias":      "c0n-sudo",
     "role":       "Fachinformatiker Anwendungsentwicklung (Umschulung)",
     "focus":      ["Python", "Data Engineering", "Software Engineering"],
-    "hobby":      "Cybersecurity, Gym",
     "status":     "Building – learning in public 🚧",
     "goal":       "Junior Python Developer / Data Engineer 2025",
+    "outside":    ["Weightlifting 🏋️", "Cybersecurity (hobby)"],
 }
 ```
 
@@ -47,10 +47,6 @@ profile = {
 ![SQL](https://img.shields.io/badge/SQL-Advanced-4F9EFF?style=for-the-badge)
 ![pytest](https://img.shields.io/badge/pytest-Testing-green?style=for-the-badge&logo=pytest&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-
-### Security (Hobby)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
