@@ -23,7 +23,7 @@ profile = {
     "alias":      "c0n-sudo",
     "role":       "Fachinformatiker Anwendungsentwicklung (Umschulung)",
     "focus":      ["Python", "Data Engineering", "Software Engineering"],
-    "hobby":      "Cybersecurity – TryHackMe / HackTheBox",
+    "hobby":      "Cybersecurity, Gym",
     "status":     "Building – learning in public 🚧",
     "goal":       "Junior Python Developer / Data Engineer 2025",
 }
