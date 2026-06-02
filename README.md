@@ -1,4 +1,3 @@
-<!-- Header -->
 <div align="center">
 
 ```
@@ -10,104 +9,98 @@
  ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝      ╚══════╝ ╚═════╝ ╚═════╝  ╚═════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=4F9EFF&center=true&vCenter=true&width=600&lines=Python+%7C+Data+Engineering+%7C+Software+Engineering;Building+pipelines+%26+clean+code;Fachinformatiker+AE+in+training;Clean+code+%7C+heavy+weights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Python+%7C+Data+%26+Software+Engineering;Building+real+projects+%E2%80%94+learning+in+public;Remote-first+%7C+Clean+code+%7C+Always+shipping)](https://git.io/typing-svg)
 
 </div>
 
----
-
-## `$ whoami`
+<br>
 
 ```python
 profile = {
-    "alias":      "c0n-sudo",
-    "role":       "Fachinformatiker Anwendungsentwicklung (Umschulung)",
-    "focus":      ["Python", "Data Engineering", "Software Engineering"],
-    "status":     "Building – learning in public 🚧",
-    "goal":       "Junior Python Developer / Data Engineer 2025",
-    "outside":    ["Weightlifting 🏋️", "Cybersecurity (slight interest)"],
+    "alias":    "c0n-sudo",
+    "role":     "FiAE Umschüler @ DAA Deutschland",
+    "building": "PulseOS – Market Terminal (Desktop Trading App)",
+    "target":   "Remote @ US / CH / NL / NO / SE",
+    "path":     ["Data Engineering", "Software Engineering", "Cloud Engineering"],
+    "status":   "AP1 incoming 🚧",
 }
 ```
 
----
-
-## `$ cat skills.json`
-
-### Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Currently Learning
-
-![SQL](https://img.shields.io/badge/SQL-Advanced-4F9EFF?style=for-the-badge)
-![pytest](https://img.shields.io/badge/pytest-Testing-green?style=for-the-badge&logo=pytest&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+<br>
 
 ---
 
-## `$ ls -la projects/`
+### Skills
 
-### 🔷 Crypto Market Tracker *(in progress)*
-> ETL-Pipeline · FastAPI · PostgreSQL · Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-Pulls live crypto data from CoinGecko every hour, stores historical prices in PostgreSQL,
-and serves them via a self-built REST API. Clean modular structure, pytest coverage, Docker-ready.
+**Learning now →**
+![OOP](https://img.shields.io/badge/Python_OOP-8B5CF6?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-8B5CF6?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=flat-square)
+![Desktop Dev](https://img.shields.io/badge/Desktop_Apps-8B5CF6?style=flat-square)
 
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
+**Planned →**
+![FastAPI](https://img.shields.io/badge/FastAPI-3D3D3D?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3D3D3D?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3D3D3D?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Cloud-3D3D3D?style=flat-square&logo=amazon-aws)
 
 ---
 
-> *More projects coming – building in public.*
+### Projects
+
+**PulseOS – Trading Tracker** &nbsp;`in progress`
+```
+Desktop app for tracking crypto & stocks in real time.
+CoinGecko + yFinance APIs → SQLite → CustomTkinter UI
+Boot animation, sidebar nav, live price cards, candlestick charts (planned)
+Next: NexusOS trading bot integration
+```
+`Python` `CustomTkinter` `SQLite` `REST APIs` `OOP`
 
 ---
 
-## `$ cat roadmap.md`
+### Roadmap
 
 ```
-[✅] Python Grundlagen                ████████████████████  done
-[✅] Git & GitHub                     ████████████████████  done
-[✅] SQL Grundlagen                   ████████████████░░░░  solid
-[🔄] FastAPI + REST APIs              ████████████░░░░░░░░  in progress
-[🔄] Datenpipelines / ETL             ████████░░░░░░░░░░░░  in progress
-[⏳] pytest & Testing                 ████░░░░░░░░░░░░░░░░  next
-[⏳] Docker                           ██░░░░░░░░░░░░░░░░░░  next
-[⏳] Cloud (AWS/Azure Basics)         ░░░░░░░░░░░░░░░░░░░░  planned
+Python Basics          ████████████████████  ✅
+Git & GitHub           ████████████████████  ✅
+Python OOP             ████████████░░░░░░░░  🔄
+REST APIs              ████████████░░░░░░░░  🔄
+SQL / SQLite           ████████░░░░░░░░░░░░  🔄
+Desktop Apps           ████████░░░░░░░░░░░░  🔄
+FastAPI                ░░░░░░░░░░░░░░░░░░░░  ⏳
+PostgreSQL             ░░░░░░░░░░░░░░░░░░░░  ⏳
+Docker                 ░░░░░░░░░░░░░░░░░░░░  ⏳
+Cloud (AWS/Azure)      ░░░░░░░░░░░░░░░░░░░░  ⏳
 ```
 
 ---
-
-## `$ cat stats.sh`
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0n-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f9eff&icon_color=a78bfa&text_color=e2e8f0)](https://github.com/c0n-sudo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0n-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f9eff&text_color=e2e8f0)](https://github.com/c0n-sudo)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=c0n-sudo&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f9eff&ring=a78bfa&fire=fbbf24&currStreakLabel=4f9eff)](https://github.com/c0n-sudo)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0n-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=c4b5fd&text_color=e2e8f0)](https://github.com/c0n-sudo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0n-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=e2e8f0)](https://github.com/c0n-sudo)
 
 </div>
 
 ---
 
-## `$ echo $CONTACT`
-
 ```bash
-# Open to Junior roles – Python Developer / Data Engineer
-# Currently: Umschulung Fachinformatiker AE (graduating 2027)
+# Open to remote junior roles — Data / Software / Cloud Engineering
+# Germany 🇩🇪 → remote for US / CH / NL / NO / SE
+# Graduating 2027 · building every day until then
 
 echo "Let's connect 👋"
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DEIN-PROFIL-HIER)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/DEIN-PROFIL-HIER)
 
 <div align="center">
-<sub>updated manually as skills grow · built with focus, not hype</sub>
+<sub>honest skills · real projects · shipping daily</sub>
 </div>
